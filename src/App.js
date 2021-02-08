@@ -4,7 +4,7 @@ import Header from './components/Header'
 function App() {
   return (
     <div className="container">
-        <Header title='ginger bastid' />
+        <Header title='Task Tracker' />
     </div>
   )
 };
